@@ -1,0 +1,47 @@
+h1 {
+  color: blue;
+  font-size: 24px;
+  font-weight: bolder;
+  font-style: italic;
+}
+
+h2 {
+  font-size: 20px;
+  color: blue;
+  font-weight: bolder;
+}
+
+h3 {
+  font-size: 16px;
+  color: teal;
+  font-weight: bolder;
+}
+
+p {
+  color: #4d4d4d;
+}
+h4 {
+  font-weight: bolder;
+}
+
+a {
+  color: #ae00ff;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+header {
+  height: 33%;
+  width: 100%;
+  background-repeat: no-repeat;
+  align-items: center;
+  background-image: url(http://lol-stats.net/uploads/4oFJWfOt73gESxXmHb0aAyij5wSDnQU5shtOjf8p.jpeg);
+}
+
+article {
+  border: 2px solid rgb(0, 255, 8);
+  border-radius: 5px;
+  border-left-width: 10px;
+}
